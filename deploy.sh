@@ -1,0 +1,1 @@
+scp -r ./ selah4@s223.xrea.com:~/lp-practice-static
