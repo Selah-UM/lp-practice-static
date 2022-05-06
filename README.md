@@ -10,7 +10,7 @@ https://github.com/Selah-UM/lp-practice-static/projects/1
 
 # サイトのURL
 
-http://selah4.s223.xrea.com/
+https://selah4.s223.xrea.com/
 
 # ssh接続
 公開鍵認証でSSH接続できるようになりました。
