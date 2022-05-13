@@ -12,6 +12,8 @@ https://github.com/Selah-UM/lp-practice-static/projects/1
 
 http://selah4.s223.xrea.com/
 
+https://selah4.shop/
+
 # ssh接続
 公開鍵認証でSSH接続できるようになりました。
 
